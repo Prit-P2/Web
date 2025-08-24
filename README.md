@@ -67,7 +67,7 @@ This project is designed to make your development process smoother by providing 
 
 ## 🔗 Connect
 
-- [GitHub Profile](https://github.com/Prit-P2)
+- [Prit-P2](https://github.com/Prit-P2)
 
 ---
 
